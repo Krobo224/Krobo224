@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **AI--->ML--->DL**
 
-- 📫 How to reach me **shirodekaushal@gmail.com**
+- 📫 Reach me through **shirodekaushal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
