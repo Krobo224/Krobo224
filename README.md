@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushal Shirode</h1>
-<h3 align="center">A AI Enthusiast.......</h3>
+<h3 align="center">An AI Enthusiast.......</h3>
 
 <!-- Profile Views Part -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=krobo224&label=Profile%20views&color=0e75b6&style=flat" alt="krobo224" /> </p> -->
