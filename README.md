@@ -9,8 +9,6 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/kaushalshirode" target="blank"><img src="https://img.shields.io/twitter/follow/kaushalshirode?logo=twitter&style=for-the-badge" alt="kaushalshirode" /></a> </p> -->
 
-- 🔭 I’m currently working on **Chess Project**
-
 - 🌱 I’m currently learning **Deep Learning, Machine Learning**
 
 - 💬 Ask me about **AI--->ML--->DL**
