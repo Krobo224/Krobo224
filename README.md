@@ -15,7 +15,7 @@
 
 - 📫 Reach me through **shirodekaushal@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaushalshirode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushalshirode" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kaushal-shirode-bb7375167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal shirode" height="30" width="40" /></a>
@@ -33,4 +33,4 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krobo224&show_icons=true&locale=en" alt="krobo224" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krobo224&" alt="krobo224" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krobo224&" alt="krobo224" /></p> -->
