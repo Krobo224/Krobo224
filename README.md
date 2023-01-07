@@ -5,7 +5,7 @@ Hi, I’m Kaushal Shirode. I am currently pursuing my bachelor’s degree in the
 |   **Prog Languages**  |       C       |      C++     |     Python       |      CSS       |    Javascript    |
 |:---------------------:|:-------------:|:------------:|:----------------:|:--------------:|:----------------:|
 |     **Frameworks**    |  Tensorflow   |     Keras    |     Pytorch      |     Node js    |     React js     |
-|  **Python Libraries** |    Pandas     |    Numpy     |      opencv      |      pygames   |                  |
+|  **Python Libraries** |    Pandas     |    Numpy     |      OpenCv      |      Pygame    |                  |
 |     **Platforms**     | Visual Studio | Google Colab | Jupyter Notebook | Android Studio |                  |
 |     **Databases**     |     Mysql     |    MongoDB   |                  |                |                  |
 | **Operating Systems** |    Windows    |     Linux    |                  |                |                  |
