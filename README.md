@@ -2,10 +2,10 @@
 Hi, I’m Kaushal Shirode. I am currently pursuing my bachelor’s degree in the CSE branch from IIIT Nagpur. I love to dive into technology and apply it to the real world through various projects.
 
 ## Skills
-|   **Prog Languages**  |       C       |      C++     |     Python       |      CSS       |    Javascript    |
+|   **Prog Languages**  |       Python  |      C++     |         C        |      CSS       |    Javascript    |
 |:---------------------:|:-------------:|:------------:|:----------------:|:--------------:|:----------------:|
 |     **Frameworks**    |  Tensorflow   |     Keras    |     Pytorch      |     Node js    |     React js     |
-|  **Python Libraries** |    Pandas     |    Numpy     |      OpenCv      |      Pygame    |                  |
+|  **Python Libraries** |    Pandas     |    Numpy     |     Langchain    |     OpenCV     |                  |
 |     **Platforms**     | Visual Studio | Google Colab | Jupyter Notebook | Android Studio |                  |
 |     **Databases**     |     Mysql     |    MongoDB   |                  |                |                  |
 | **Operating Systems** |    Windows    |     Linux    |                  |                |                  |
